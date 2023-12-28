@@ -1,0 +1,13 @@
+{
+  "name": "pss2",
+  "version": "1.0.0",
+  "description": "- Responsive Christmas Landing Page Using HTML CSS And JavaScript - Contains animations when scrolling. - Smooth scrolling in each section. - Includes a dark and light mode. - Developed first with the Mobile First methodology, then for desktop. - Compatible with all mobile devices and with a beautiful and pleasant user interface.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.HTML"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
